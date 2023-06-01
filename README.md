@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucahaggar&label=Profile%20views&color=0e75b6&style=flat" alt="lucahaggar" /> </p>
 
-- 🔭 **Al momento sto lavorando in Team ad un progetto, Presto.it | terminato il progetto renderò pubblica la repository per condividerla con voi**
+- 🔭 **Ho terminato il percorso di studi con Aulab**
 
 - 🌱 **Sto studiando React per approfondire le mie conoscenze**
 
