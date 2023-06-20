@@ -7,7 +7,7 @@
 
 - 🔭 **Ho terminato il percorso di studi con Aulab**
 
-- 🌱 **Sto studiando React per approfondire le mie conoscenze**
+- 🌱 **Sto studiando Angular per approfondire le mie conoscenze**
 
 - 📫 Il mio indirizzo e-mail **luca.haggar1@gmail.com**
 
